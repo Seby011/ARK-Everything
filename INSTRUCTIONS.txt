@@ -1,4 +1,4 @@
-; 1920x1080 resolution, and Windowed Fullscreen required. In-Game Gamma needs to be default (can be done by just typing 'gamma' in console) and General UI Scale setting must be maxed.
+; 1920x1080 resolution, and Windowed Fullscreen required. In-Game Gamma needs to be default (can be done by just typing 'gamma' in console) and General UI Scale setting must be maxed. Need AutoHotKey installed.
 ;
 ; Instructions!!
 ; F3 to access dino you are riding's inventory and drop stone, flint, thatch, and wood. 
